@@ -6,6 +6,7 @@
 * [ ] Apresentação.
 * [ ] Preparando o Ambiente.
 * [ ] Introdução a Logica de Programação.
+* [ ] Desvendando Algoritmos.
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
