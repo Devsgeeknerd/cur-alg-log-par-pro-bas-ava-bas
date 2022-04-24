@@ -9,6 +9,7 @@
 * [ ] Desvendando Algoritmos.
 * [ ] Constantes, Variáveis e Tipo de Dados.
 * [ ] Operadores.
+* [ ] Estruturas de Decisão.
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
