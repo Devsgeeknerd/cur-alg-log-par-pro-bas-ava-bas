@@ -5,6 +5,7 @@
 
 * [ ] Apresentação.
 * [ ] Preparando o Ambiente.
+* [ ] Introdução a Logica de Programação.
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
