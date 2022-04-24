@@ -1,7 +1,7 @@
 <!-- TITLE -->
 # Algoritmos & Logica de Programação — Do Básico ao Avançado
 
-***Conteúdo:***
+***Conteúdo do Curso:***
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
@@ -10,7 +10,7 @@
 <!--  * [Foto da tela](#foto-da-tela) -->
 <!--  * [Links](#links) -->
 <!-- * [Meu processo](#meu-processo) -->
-<!--  * [Contraído com](#construido-com) -->
+<!--  * [Construído com](#construido-com) -->
 <!--  * [O que aprendi](#o-que-aprendi) -->
 <!--  * [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
 <!--  * [Recuso úteis](#recursos-úteis) -->
