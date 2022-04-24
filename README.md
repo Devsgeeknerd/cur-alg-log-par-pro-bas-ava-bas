@@ -7,6 +7,7 @@
 * [ ] Preparando o Ambiente.
 * [ ] Introdução a Logica de Programação.
 * [ ] Desvendando Algoritmos.
+* [ ] Constantes, Variáveis e Tipo de Dados.
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
@@ -60,7 +61,7 @@
 &nbsp;
 ![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cur-log-pro-bas-ava?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
+![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cur-alg-log-pro-bas-ava?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
 &nbsp;
 ![stars](https://img.shields.io/github/stars/Devsgeeknerd/cur-alg-log-pro-bas-ava?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
 &nbsp;
