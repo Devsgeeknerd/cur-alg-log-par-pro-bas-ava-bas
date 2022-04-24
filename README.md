@@ -12,6 +12,7 @@
 * [ ] Estruturas de Decisão.
 * [ ] Comandos de Repetição.
 * [ ] Variáveis Compostas.
+* [ ] Resolvendo Algoritmos — Linguagem C.
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
