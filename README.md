@@ -14,6 +14,7 @@
 * [ ] Variáveis Compostas.
 * [ ] Resolvendo Algoritmos — Linguagem C.
 * [ ] Resolvendo Algoritmos — Linguagem Java.
+* [ ] Resolvendo Algoritmos — Linguagem Python.
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
