@@ -10,6 +10,7 @@
 * [ ] Constantes, Variáveis e Tipo de Dados.
 * [ ] Operadores.
 * [ ] Estruturas de Decisão.
+* [ ] Comandos de Repetição.
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
