@@ -17,6 +17,7 @@
 * [ ] Resolvendo Algoritmos — Linguagem Python.
 * [ ] Resolvendo Algoritmos — Scratch.
 * [ ] Resolvendo Algoritmos — Potigol.
+* [ ] Resolvendo Exercícios — Pseudocódigo.
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
