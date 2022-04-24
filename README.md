@@ -18,6 +18,7 @@
 * [ ] Resolvendo Algoritmos — Scratch.
 * [ ] Resolvendo Algoritmos — Potigol.
 * [ ] Resolvendo Exercícios — Pseudocódigo.
+* [ ] Encerramento.
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
