@@ -13,6 +13,7 @@
 * [ ] Comandos de Repetição.
 * [ ] Variáveis Compostas.
 * [ ] Resolvendo Algoritmos — Linguagem C.
+* [ ] Resolvendo Algoritmos — Linguagem Java.
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
