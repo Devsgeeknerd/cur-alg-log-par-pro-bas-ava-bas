@@ -11,6 +11,7 @@
 * [ ] Operadores.
 * [ ] Estruturas de Decisão.
 * [ ] Comandos de Repetição.
+* [ ] Variáveis Compostas.
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
