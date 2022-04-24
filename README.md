@@ -8,6 +8,7 @@
 * [ ] Introdução a Logica de Programação.
 * [ ] Desvendando Algoritmos.
 * [ ] Constantes, Variáveis e Tipo de Dados.
+* [ ] Operadores.
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
