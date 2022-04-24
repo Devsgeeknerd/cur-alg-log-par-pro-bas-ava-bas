@@ -4,6 +4,7 @@
 ***Conteúdo do Curso:***
 
 * [ ] Apresentação.
+* [ ] Preparando o Ambiente.
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
