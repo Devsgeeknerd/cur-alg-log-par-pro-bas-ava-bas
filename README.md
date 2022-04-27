@@ -1,11 +1,11 @@
 <!-- TITLE -->
-# Algoritmos & Logica de Programação — Do Básico ao Avançado
+# Algoritmos & Lógica de Programação — Do Básico ao Avançado
 
 ***Conteúdo do Curso:***
 
 * [ ] Apresentação.
 * [ ] Preparando o Ambiente.
-* [ ] Introdução a Logica de Programação.
+* [ ] Introdução a Lógica de Programação.
 * [ ] Desvendando Algoritmos.
 * [ ] Constantes, Variáveis e Tipo de Dados.
 * [ ] Operadores.
