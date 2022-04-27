@@ -3,7 +3,7 @@
 
 ***Conteúdo do Curso:***
 
-* [ ] Apresentação.
+* [ ] [Apresentação.](https://github.com/Devsgeeknerd/cla-apr-alg-log-pro-bas-ava)
 * [ ] Preparando o Ambiente.
 * [ ] Introdução a Lógica de Programação.
 * [ ] Desvendando Algoritmos.
@@ -70,7 +70,7 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcur-alg-log-pro-bas-ava&label=VISITANTES&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
-![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de Seguidores")
+![followers](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de Seguidores")
 &nbsp;
 ![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cur-alg-log-pro-bas-ava?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
 &nbsp;
