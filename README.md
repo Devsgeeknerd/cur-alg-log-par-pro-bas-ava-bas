@@ -15,7 +15,7 @@
 * [ ] [Resolvendo Exercício — Pseudocodigo.](https://github.com/Devsgeeknerd/mod-res-exe-pse-alg-log-par-pro-bas-ava "Ver modulo")
 * [ ] [Resolvendo Algoritmos — Linguagem C.](https://github.com/Devsgeeknerd/mod-res-alg-lin-c-alg-log-par-pro-bas-ava "Ver modulo")
 * [ ] [Resolvendo Algoritmos — Linguagem Java.](https://github.com/Devsfgeeknerd/mod-res-alg-lin-jav-alg-log-par-pro-bas-ava "Ver modulo")
-* [ ] [Resolvendo Algoritmos — Linguagem Python.](https://github.com/Devsgeeknerd/mod-res-alg-lin-pyt-alg-log-par-pro-bas-ava "Ver modulo")
+<!-- * [ ] [Resolvendo Algoritmos — Linguagem Python.](https://github.com/Devsgeeknerd/mod-res-alg-lin-pyt-alg-log-par-pro-bas-ava "Ver modulo") -->
 <!-- * [ ] [Resolvendo Algoritmos — Linguagem Scratch.](https://github.com/Devsgeeknerd/mod-res-alg-lin-scr-alg-log-par-pro-bas-ava "Ver modulo") -->
 <!-- * [ ] [Resolvendo Algoritmos — Linguagem Potigol.](https://github.com/Devsgeeknerd/mod-res-alg-lin-pot-alg-log-par-pro-bas-ava "Ver modulo") -->
 
