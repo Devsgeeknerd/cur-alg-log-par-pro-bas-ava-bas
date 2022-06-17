@@ -8,7 +8,7 @@
 * [ ] [Introdução a Lógica Para Programação.](https://github.com/Devsgeeknerd/mod-int-log-par-pro-alg-log-par-pro-bas-ava "Ver modulo")
 * [ ] [Desvendando Algoritmos.](https://github.com/Devsgeeknerd/mod-des-alg-alg-log-par-pro-bas-ava "Ver modulo")
 * [ ] [Constantes, Variáveis e Tipo de Dados.](https://github.com?Devsgeeknerd/mod-con-var-tip-dad-alg-log-par-pro-bas-ava "Ver modulo")
-* [ ] [Operadores.]()
+* [ ] [Operadores.](https://github.com/Desvgeeknerd/mod-ope-alg-log-par-pro-bas-ava "Ver modulo")
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcur-alg-log-par-pro-bas-ava&label=VISITANTES&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
