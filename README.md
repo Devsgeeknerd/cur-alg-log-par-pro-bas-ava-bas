@@ -6,7 +6,7 @@
 * [ ] [Apresentação.](https://github.com/Devsgeeknerd/mod-apr-alg-log-par-pro-bas-ava "Ver módulo")
 * [ ] [Preparando o Ambiente.](https://github.com/Devsgeeknerd/mod-pre-amb-alg-log-par-pro-bas-ava "ver modulo")
 * [ ] [Introdução a Lógica Para Programação.](https://github.com/Devsgeeknerd/mod-int-log-par-pro-alg-log-par-pro-bas-ava "Ver modulo")
-* [ ] [Desvendando Algoritmos.]()
+* [ ] [Desvendando Algoritmos.](https://github.com/Devsgeeknerd/mod-des-alg-alg-log-par-pro-bas-ava "Ver modulo")
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcur-alg-log-par-pro-bas-ava&label=VISITANTES&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
