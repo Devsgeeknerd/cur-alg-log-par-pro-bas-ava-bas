@@ -11,7 +11,8 @@
 * [ ] [Operadores.](https://github.com/Desvgeeknerd/mod-ope-alg-log-par-pro-bas-ava "Ver modulo")
 * [ ] [Estruturas de Decisão.](https://girhub.com?Desvgeeknerd/mod-est-dec-alg-log-par-pro-bas-ava "Ver modulo")
 * [ ] [Comandos de Repetição.](https://github.com/Devsgeeknerd/mod-com-rep-alg-log-par-pro-bas-ava "Ver modulo")
-* [ ] [Variáveis Compostas.]()
+* [ ] [Variáveis Compostas.](https://github.com/Devsgeeknerd/mod-var-com-alg-log-par-pro-bas-ava "ver modulo")
+* [ ] [Resolvendo Exercício.]()
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcur-alg-log-par-pro-bas-ava&label=VISITANTES&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
