@@ -15,7 +15,8 @@
 * [ ] [Resolvendo Exercício — Pseudocodigo.](https://github.com/Devsgeeknerd/mod-res-exe-pse-alg-log-par-pro-bas-ava "Ver modulo")
 * [ ] [Resolvendo Algoritmos — Linguagem C.](https://github.com/Devsgeeknerd/mod-res-alg-lin-c-alg-log-par-pro-bas-ava "Ver modulo")
 * [ ] [Resolvendo Algoritmos — Linguagem Java.](https://github.com/Devsfgeeknerd/mod-res-alg-lin-jav-alg-log-par-pro-bas-ava "Ver modulo")
-* [ ] [Resolvendo Algoritmos — Linguagem Python.]()
+* [ ] [Resolvendo Algoritmos — Linguagem Python.](https://github.com/Devsgeeknerd/mod-res-alg-lin-pyt-alg-log-par-pro-bas-ava "Ver modulo")
+* [ ] [Resolvendo Algoritmos — Scratch.]()
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcur-alg-log-par-pro-bas-ava&label=VISITANTES&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
