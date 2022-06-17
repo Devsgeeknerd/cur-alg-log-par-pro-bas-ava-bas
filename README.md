@@ -9,7 +9,7 @@
 * [ ] [Desvendando Algoritmos.](https://github.com/Devsgeeknerd/mod-des-alg-alg-log-par-pro-bas-ava "Ver modulo")
 * [ ] [Constantes, Variáveis e Tipo de Dados.](https://github.com?Devsgeeknerd/mod-con-var-tip-dad-alg-log-par-pro-bas-ava "Ver modulo")
 * [ ] [Operadores.](https://github.com/Desvgeeknerd/mod-ope-alg-log-par-pro-bas-ava "Ver modulo")
-* [ ] [Estruturas de Decisão.]()
+* [ ] [Estruturas de Decisão.](https://girhub.com?Desvgeeknerd/mod-est-dec-alg-log-par-pro-bas-ava "Ver modulo")
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcur-alg-log-par-pro-bas-ava&label=VISITANTES&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
