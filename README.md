@@ -18,7 +18,7 @@
 * [ ] [Resolvendo Algoritmos — Linguagem Python.](https://github.com/Devsgeeknerd/mod-res-alg-lin-pyt-alg-log-par-pro-bas-ava)
 * [ ] [Resolvendo Algoritmos — Linguagem Potigol.](https://github.com/Devsgeeknerd/mod-res-alg-lin-pot-alg-log-par-pro-bas-ava)
 * [ ] [Resolvendo Algoritmos — Ferramenta Scratch.](https://github.com/Devsgeeknerd/mod-res-alg-fer-scr-alg-log-par-pro-bas-ava)
-* [ ] []()
+* [ ] [Encerrameto.](https://github.com/Devsgeeknerd/mod-enc-alg-log-par-pro-bas-ava)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcur-alg-log-par-pro-bas-ava&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
