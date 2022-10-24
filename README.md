@@ -3,7 +3,7 @@
 
 ***Conteúdo do Curso:***
 
-* [ ] [Apresentação.]()
+* [ ] [Apresentação.](https://github.com/Devsgeeknerd/mod-apr-alg-log-par-pro-bas-ava)
 * [ ] []()
 * [ ] []()
 * [ ] []()
