@@ -14,7 +14,7 @@
 * [ ] [Variáveis Compostas.](https://github.com/Devsgeeknerd/mod-var-com-alg-log-par-pro-bas-ava)
 * [ ] [Resolvendo Exercícios com Pseudocódigo.](https://github.com/Devsgeeknerd/mod-res-exe-pse-alg-log-par-rpo-bas-ava)
 * [ ] [Resolvendo Algoritmos — Linguagem C.](https://github.com/Devsgeeknerd/mod-res-alg-lin-c-alg-log-par-pro-bas-ava)
-* [ ] []()
+* [ ] [Resolvendo Algoritmos — Linguagem Java.](https://github.com/Devsgeeknerd/mod-res-alg-lin-javalg-log-par-pro-bas-ava)
 * [ ] []()
 * [ ] []()
 * [ ] []()
