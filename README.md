@@ -12,7 +12,7 @@
 * [ ] [Estruturas de Decisão.](https://github.com/Devsgeenknerd/mod-est-dec-alg-log-par-rpo-bas-ava)
 * [ ] [Comandos de Repetição.](https://github.com/Devsgeeknerd/mod-com-rep-alg-log-par-pro-bas-ava)
 * [ ] [Variáveis Compostas.](https://github.com/Devsgeeknerd/mod-var-com-alg-log-par-pro-bas-ava)
-* [ ] []()
+* [ ] [Resolvendo Exercícios com Pseudocódigo.](https://github.com/Devsgeeknerd/mod-res-exe-pse-alg-log-par-rpo-bas-ava)
 * [ ] []()
 * [ ] []()
 * [ ] []()
