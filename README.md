@@ -8,7 +8,7 @@
 * [ ] [Introdução a Lógica Para Programação.](https://github.com/Devsgeeknerd/mod-int-log-par-pro-alg-log-par-pro-bas-ava)
 * [ ] [Desvendando Algoritmos.](https://github.com/Devsgeeknerd/mod-des-alg-alg-log-par-pro-bas-ava)
 * [ ] [Constantes, Variáveis e Tipos de Dados.](https://github.com/Devsgeeknerd/mod-con-var-tip-dad-alg-log-par-pro-bas-ava)
-* [ ] []()
+* [ ] [Operadores.](https://github.com/Devsgeeknerd/mod-ope-alg-log-par-pro-bas-ava)
 * [ ] []()
 * [ ] []()
 * [ ] []()
