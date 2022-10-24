@@ -10,7 +10,7 @@
 * [ ] [Constantes, Variáveis e Tipos de Dados.](https://github.com/Devsgeeknerd/mod-con-var-tip-dad-alg-log-par-pro-bas-ava)
 * [ ] [Operadores.](https://github.com/Devsgeeknerd/mod-ope-alg-log-par-pro-bas-ava)
 * [ ] [Estruturas de Decisão.](https://github.com/devsgeenknerd/mod-est-dec-alg-log-par-rpo-bas-ava)
-* [ ] []()
+* [ ] [Comandos de Repetição.](https://github.com/devsgeeknerd/mod-com-rep-alg-log-par-pro-bas-ava)
 * [ ] []()
 * [ ] []()
 * [ ] []()
