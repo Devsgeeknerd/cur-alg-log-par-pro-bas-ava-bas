@@ -4,7 +4,7 @@
 ***Conteúdo do Curso:***
 
 * [ ] [Apresentação.](https://github.com/Devsgeeknerd/mod-apr-alg-log-par-pro-bas-ava)
-* [ ] [Preparando o Ambiente.]()
+* [ ] [Preparando o Ambiente.](https://github.com/Devsgeeknerd/mod-pre-amb-alg-log-par-pro-bas-ava)
 * [ ] []()
 * [ ] []()
 * [ ] []()
