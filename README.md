@@ -16,7 +16,7 @@
 * [ ] [Resolvendo Algoritmos — Linguagem C.](https://github.com/Devsgeeknerd/mod-res-alg-lin-c-alg-log-par-pro-bas-ava)
 * [ ] [Resolvendo Algoritmos — Linguagem Java.](https://github.com/Devsgeeknerd/mod-res-alg-lin-jav-alg-log-par-pro-bas-ava)
 * [ ] [Resolvendo Algoritmos — Linguagem Python.](https://github.com/Devsgeeknerd/mod-res-alg-lin-pyt-alg-log-par-pro-bas-ava)
-* [ ] []()
+* [ ] [Resolvendo Algoritmos — Linguagem Potigol.](https://github.com/Devsgeeknerd/mod-res-alg-lin-pot-alg-log-par-pro-bas-ava)
 * [ ] []()
 * [ ] []()
 
