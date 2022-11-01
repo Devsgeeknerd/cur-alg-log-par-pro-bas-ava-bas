@@ -3,7 +3,7 @@
 
 ***Conteúdo do Curso:***
 
-* [ ] [Apresentação.](https://github.com/Devsgeeknerd/mod-apr-alg-log-par-pro-bas-ava)
+* [x] [Apresentação.](https://github.com/Devsgeeknerd/mod-apr-alg-log-par-pro-bas-ava)
 * [ ] [Preparando o Ambiente.](https://github.com/Devsgeeknerd/mod-pre-amb-alg-log-par-pro-bas-ava)
 * [ ] [Introdução a Lógica Para Programação.](https://github.com/Devsgeeknerd/mod-int-log-par-pro-alg-log-par-pro-bas-ava)
 * [ ] [Desvendando Algoritmos.](https://github.com/Devsgeeknerd/mod-des-alg-alg-log-par-pro-bas-ava)
